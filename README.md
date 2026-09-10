@@ -1,3 +1,3 @@
-# ZET-WAVE-blackbox-Optimization-Membrane-Based-Wastewater-Treatment-for-STIG-Plants
+# WAVE-blackbox-Optimization-Membrane-Based-Wastewater-Treatment-for-TU Dresden-ZET-STIG-Plants
 Acquired practical expertise in membrane-based water treatment simulation (DuPont WAVE), Taguchi statistical optimization, and Python-driven data analysis and visualization to deliver data-backed engineering solutions for industrial wastewater reuse.
 A comprehensive master's project utilizing DuPont WAVE simulation software to optimize the condensate treatment process at the ZET (TU Dresden) steam-injected gas turbine plant. The project combines a Taguchi L27 Design of Experiments (simulating 27 unique RO configurations) with Python-driven data processing and multivariate visualization. The analysis successfully identified a Hybrid Double Pass RO configuration that reduces boiler feedwater TOC by 69% and provides a 3.3x safety margin while eliminating all hydraulic design warnings.
